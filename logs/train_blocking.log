@@ -1,0 +1,12 @@
+[train] loading sources...
+[train] loaded s1=2206821 s2=5034616 s3=5285603 in 28.5s
+[train] tokenized s1 in 53.1s (21605633 tokens)
+[train] tokenized s2 in 118.3s (44203887 tokens)
+[train] tokenized s3 in 119.1s (48106720 tokens)
+[train] caps word=50 num=500 -> estimated fanout s2=131198213 s3=138250028
+[train] caps word=25 num=250 -> estimated fanout s2=53941857 s3=56229599
+[train] after stoplist filter: tok1=1399246 tok2=4303893 tok3=4350384 stoplist_size=85945
+[train] candidates vs s2: 47001701 pairs in 5.4s
+[train] candidates vs s3: 49147694 pairs in 5.8s
+[train] BLOCKING DONE
+BLOCKING_TRAIN_DONE_MARKER

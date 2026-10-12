@@ -1,0 +1,12 @@
+file 2: rows=4887273 (expected 4887273) records_dict=4887273 elapsed=123.2s
+file 3: rows=5082316 (expected 5082316) records_dict=9969589 elapsed=250.2s
+pass1 OK: 9969589 records in 250.2s
+pass2 OK: 2065556 postings in 394.9s
+current submission loaded: 1732544 rows
+empty rows: 99236
+  scanned 40000/99236 in 7.3s, additions=566, missing_rid_errors=0
+  scanned 80000/99236 in 14.4s, additions=1153, missing_rid_errors=0
+DONE. total strict-fuzzy additions: 1427 / 99236 empty rows. missing_rid_errors=0
+saved /tmp/fuzzy_additions2.pkl
+SINGLETON2_DONE
+SINGLETON2_DONE

@@ -1,0 +1,7 @@
+Building country-aware indexes...
+Indexed 9,969,589 candidates; 2,065,556 rare-token blocks in 394.4s
+Processed row 50,000 in 47.8s
+Processed row 100,000 in 97.3s
+Processed row 150,000 in 154.9s
+Processed row 200,000 in 209.9s
+Processed row 250,000 in 259.4s

@@ -1,0 +1,10 @@
+[train] s1.parquet already exists, skipping reload
+[train] s2.parquet already exists, skipping reload
+[train] s3.parquet already exists, skipping reload
+[train] built keys for s1 in 69.6s (30890178 keys)
+[train] built keys for s2 in 160.1s (66111629 keys)
+[train] built keys for s3 in 169.3s (71873311 keys)
+[train] key1: dropped 79 over-cap keys (30890178->30444197 rows)
+[train] key2: dropped 262 over-cap keys (66111629->64640677 rows)
+[train] key3: dropped 263 over-cap keys (71873311->70475243 rows)
+[train] candidates2 vs s2: 3132928298 pairs in 430.5s

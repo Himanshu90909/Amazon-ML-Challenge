@@ -1,0 +1,9 @@
+loaded+tokenized 10,320,219 s2/s3 records in 490.1s (2,293,764 distinct (country,field,token) keys)
+prepared 150,000 sample S1 rows in 18.0s
+max_df=25: avg candidates/row=13.9 | recall(exact only)=0.2982 | recall(exact+token)=0.4667 | (3.0s)
+max_df=50: avg candidates/row=20.0 | recall(exact only)=0.2982 | recall(exact+token)=0.5338 | (2.9s)
+max_df=100: avg candidates/row=36.1 | recall(exact only)=0.2982 | recall(exact+token)=0.6089 | (3.1s)
+max_df=200: avg candidates/row=87.1 | recall(exact only)=0.2982 | recall(exact+token)=0.7070 | (4.7s)
+max_df=500: avg candidates/row=244.4 | recall(exact only)=0.2982 | recall(exact+token)=0.8008 | (7.4s)
+max_df=1000: avg candidates/row=572.0 | recall(exact only)=0.2982 | recall(exact+token)=0.8627 | (14.6s)
+SWEEP_DONE_MARKER

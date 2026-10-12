@@ -1,0 +1,3 @@
+Building indexes...
+Indexed 10,320,219 candidates; 2,285,298 rare-token blocks in 510.8s
+processed 200,000 in 1248.0s | tp=525938 fp=2237523 fn=165650

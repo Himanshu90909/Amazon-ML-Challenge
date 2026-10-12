@@ -1,0 +1,9 @@
+pass1 done 14.3s, 497777 records
+pass2 done 182.7s, 2085168 postings
+empty rows: 99236
+Traceback (most recent call last):
+  File "/app/conversations/6a5dc9e6c2ba4e8b61bcc1b5/entity_resolution/user_script/singleton_recover.py", line 74, in <module>
+    nm, ad, c, adws, nmws = records[rid]
+                            ~~~~~~~^^^^^
+KeyError: 'S3-255669508'
+SINGLETON_DONE

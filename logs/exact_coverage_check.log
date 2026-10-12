@@ -1,0 +1,27 @@
+loaded 10,320,219 s2/s3 records in 245.1s
+2,083,574 S1 rows have >=1 true match
+
+total true match pairs: 7,638,365
+caught by exact NAME match: 1,752,544 (22.94%)
+caught by exact ADDR match: 635,088 (8.31%)
+caught by EITHER exact match: 2,281,140 (29.86%)
+need fuzzy/token blocking (neither exact): 5,357,225 (70.14%)
+
+sample pairs needing fuzzy blocking:
+  S1=S1-965667 name='maurewilliamscolombierinc' addr='85wayneavenueticonderogany'
+  S2-743505751    name='maurewilliamscolombier' addr=''
+  S1=S1-965667 name='maurewilliamscolombierinc' addr='85wayneavenueticonderogany'
+  S3-11291185    name='maurewilliamscolombiercom' addr='wayneaveticonderogatownshiipnewyork'
+  S1=S1-965667 name='maurewilliamscolombierinc' addr='85wayneavenueticonderogany'
+  S3-860443364    name='maurewilliamsinccenter' addr=''
+  S1=S1-965667 name='maurewilliamscolombierinc' addr='85wayneavenueticonderogany'
+  S2-681193310    name='maurewilblimscolombierinc' addr=''
+  S1=S1-965667 name='maurewilliamscolombierinc' addr='85wayneavenueticonderogany'
+  S3-775321672    name='dréxkor' addr='85wanyeavenueticonderogatownshiipnewyork'
+  S1=S1-55344266 name='rajinvestmentsllp' addr='629citcolony2ndmainroadmylaporechennaitamilnadu'
+  S3-384364074    name='ரஜஇனவஸடமணடஸஎலஎலப' addr='629citcolony2ndmainroadmylaporechennaiதமழநட'
+  S1=S1-55344266 name='rajinvestmentsllp' addr='629citcolony2ndmainroadmylaporechennaitamilnadu'
+  S3-478195123    name='rajinvestmentsஎலஎலப' addr='629citcolony2ndmainroadmylaporechennaitn'
+  S1=S1-343815751 name='dahliapowerreliablescientificllc' addr='63045thterracekansascitymo'
+  S2-790675320    name='dahliapowerreliable' addr='kansascitymo63045ndterracenull'
+EXACTCHECK_DONE_MARKER

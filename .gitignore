@@ -4,3 +4,10 @@
 
 # LangGraph
 .langgraph_api/
+
+# data & large artifacts
+*.tsv
+*.parquet
+*.zip
+data/
+work/

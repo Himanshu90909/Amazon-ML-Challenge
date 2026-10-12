@@ -1,0 +1,4 @@
+Building indexes...
+Indexed 10,320,219 candidates; 2,285,298 rare-token blocks in 571.2s
+processed 50,000 rows, 28,539,769 pairs in 424.9s
+processed 100,000 rows, 57,143,215 pairs in 941.5s
